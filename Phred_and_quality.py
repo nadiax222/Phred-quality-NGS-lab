@@ -1,10 +1,3 @@
-Phre
-
-
-
-
-	
-	
  # 1. Określi system kodowania jakości (Phred+33 czy Phred+64).
 
 sequence = 'ACGTGCATAGCTAGCATTACGATACGAGCCGGCGGCAAATATAGCG '
